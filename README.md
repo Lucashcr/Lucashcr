@@ -1,11 +1,11 @@
-# Olá, mundo!
+# Olá, mundo! 🤗
 
 Meu nome é Lucas, sou graduando em Engenharia Civil e apaixonado por tecnologia e programação.
 Tenho interesse na área de _**Estruturas**_ e _**Simulação Gráfica**_
 
-Atualmente, estou estudando desenvolvimento em OpenGL e aplicando-o no meu Trabalho de Conclusão de Curso, desenvolvendo uma simulação gráfica do fenômeno de flambagem de barras metálicas em perfis I.
+Atualmente, estou estudando desenvolvimento em OpenGL e aplicando-o no meu _**Trabalho de Conclusão de Curso**_, desenvolvendo uma **Simulação gráfica do fenômeno de flambagem de barras metálicas em perfis I**.
 
-Além disso, venho criando alguns projetos paralelos e aprendendo cada vez mais sobre programação.
+Além disso, venho criando alguns projetos paralelos e aprendendo cada vez mais sobre programação. Dá uma olhada a seguir... 😉
 
 <!--
 **Lucashcr/Lucashcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
