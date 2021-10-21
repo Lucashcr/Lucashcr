@@ -1,4 +1,4 @@
-# Olá, mundo! 🤗
+# Olá, mundo!😄
 
 Meu nome é Lucas, sou graduando em Engenharia Civil e apaixonado por tecnologia e programação.
 Tenho interesse na área de _**Estruturas**_ e _**Simulação Gráfica**_
