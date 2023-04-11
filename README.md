@@ -1,11 +1,13 @@
 # Olá, mundo!😄
 
-Meu nome é Lucas, sou graduando em Engenharia Civil e apaixonado por tecnologia e programação.
-Tenho interesse na área de _**Estruturas**_ e _**Simulação Gráfica**_
+Meu nome é Lucas, sou graduado em Engenharia Civil e apaixonado por tecnologia e programação.
+Atualmente estou cursando pós-graduação em Desenvolvimento Full Stack pela PUCRS e procurando minha primeira oportunidade no mercado.
+Tenho interesse na área de _**Desenvolvimento Backend**_ e _**Simulação Gráfica**_
 
-Atualmente, estou estudando desenvolvimento em OpenGL e aplicando-o no meu _**Trabalho de Conclusão de Curso**_, desenvolvendo uma **Simulação gráfica do fenômeno de flambagem de barras metálicas em perfis I**.
+Meu principal projeto hoje é uma plataforma online e inovadora para montagem e geração automática de hinários para missas e eventos católicos desenvolvido utilizando Django e BootStrap CSS. Segue o link caso queira conferir. 😉
+![GetSongsWeb](https://getsongs.up.railway.app/)
 
-Além disso, venho criando alguns projetos paralelos e aprendendo cada vez mais sobre programação. Dá uma olhada a seguir... 😉
+Além disso, venho criando alguns projetos paralelos e aprendendo cada vez mais sobre programação. Dá uma olhada nos repositórios a seguir...
 
 <!--
 **Lucashcr/Lucashcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
