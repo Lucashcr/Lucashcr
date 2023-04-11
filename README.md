@@ -5,7 +5,7 @@ Atualmente estou cursando pós-graduação em Desenvolvimento Full Stack pela PU
 Tenho interesse na área de _**Desenvolvimento Backend**_ e _**Simulação Gráfica**_
 
 Meu principal projeto hoje é uma plataforma online e inovadora para montagem e geração automática de hinários para missas e eventos católicos desenvolvido utilizando Django e BootStrap CSS. Segue o link caso queira conferir. 😉
-![GetSongsWeb](https://getsongs.up.railway.app/)
+[GetSongsWeb](https://getsongs.up.railway.app/)
 
 Além disso, venho criando alguns projetos paralelos e aprendendo cada vez mais sobre programação. Dá uma olhada nos repositórios a seguir...
 
