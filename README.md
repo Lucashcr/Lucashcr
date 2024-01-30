@@ -1,7 +1,7 @@
 # Olá, mundo!😄
 
 Meu nome é Lucas, sou graduado em Engenharia Civil e apaixonado por tecnologia e programação.
-Atualmente estou cursando pós-graduação em Desenvolvimento Full Stack pela PUCRS e procurando minha primeira oportunidade no mercado.
+Atualmente estou cursando pós-graduação em Desenvolvimento Full Stack pela PUCRS e exercendo o cargo de Desenvolvedor Full Stack Junior.
 Tenho interesse na área de _**Desenvolvimento Backend**_ e _**Simulação Gráfica**_
 
 Meu principal projeto hoje é uma plataforma online e inovadora para montagem e geração automática de hinários para missas e eventos católicos desenvolvido utilizando Django e BootStrap CSS. Segue o link caso queira conferir. 😉
