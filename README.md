@@ -9,6 +9,11 @@ Meu principal projeto hoje é uma plataforma online e inovadora para montagem e 
 
 Além disso, venho criando alguns projetos paralelos e aprendendo cada vez mais sobre programação. Dá uma olhada nos repositórios a seguir...
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/Lucashcr?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/Lucashcr">
+</picture>
+
 <!--
 **Lucashcr/Lucashcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
